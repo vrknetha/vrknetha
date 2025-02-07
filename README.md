@@ -1,13 +1,14 @@
-# Hi there! 👋 I'm vrknetha
+# Hi there! 👋 I'm Ravi Kiran
 
 ## 🛠️ Software Engineer | Test Automation Specialist | Web Development Enthusiast
 
-I specialize in building and testing web applications with a focus on automation, web scraping, and developer tooling. My work revolves around creating robust testing solutions and innovative developer tools.
+I specialize in building and testing web applications, focusing on automation, web scraping, and developer tooling. My work revolves around creating robust testing solutions and innovative developer tools.
 
 ### 🔭 Featured Projects
 
 #### Web Automation & Testing Tools
-- [mcp-server-firecrawl](https://github.com/vrknetha/mcp-server-firecrawl) - A powerful web scraping integration for Claude and other LLMs with JavaScript rendering and batch processing capabilities ⭐22
+- [mcp-server-firecrawl](https://github.com/vrknetha/mcp-server-firecrawl) - A powerful web scraping integration for Claude and other LLMs with JavaScript rendering and batch processing capabilities ⭐49
+- [aisdk-mcp-bridge](https://github.com/vrknetha/aisdk-mcp-bridge) - A bridge between Vercel AiSDK and MCP servers to make all MCP servers available for tool calling
 - [playwright-clipboard](https://github.com/vrknetha/playwright-clipboard) - Cross-browser clipboard testing solution for Playwright ⭐5
 - [playwright-indexeddb](https://github.com/vrknetha/playwright-indexeddb) - IndexedDB testing utilities for Playwright ⭐6
 - [playwright-dotnet](https://github.com/vrknetha/playwright-dotnet) - .NET implementation for Playwright testing
@@ -23,7 +24,7 @@ const tech = {
 };
 ```
 📈 GitHub Stats
-- Active open source contributor
+- Active open-source contributor
 - Created multiple testing utilities and automation tools
 - Specializes in browser automation and web scraping solutions
 
