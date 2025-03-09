@@ -9,7 +9,7 @@ I specialize in building and testing web applications, focusing on AI applicatio
 #### Web Automation & Testing Tools
 - [mcp-server-firecrawl](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server for powerful web scraping integration for Claude and other LLMs with JavaScript rendering and batch processing capabilities ⭐563
 - [langchainjs-mcp-adapters](https://github.com/vrknetha/langchainjs-mcp-adapters) - Adapters for integrating Model Context Protocol (MCP) tools with LangChain.js applications, supporting both stdio and SSE transports. ⭐2
-- [aisdk-mcp-bridge](https://github.com/vrknetha/aisdk-mcp-bridge) - A bridge between Vercel AiSDK and MCP servers to make all MCP servers available for tool calling ⭐1
+- [aisdk-mcp-bridge](https://github.com/vrknetha/aisdk-mcp-bridge) - A bridge between Vercel AiSDK and MCP servers to make all MCP servers available for tool calling ⭐4
 
 ### 💻 Technologies & Tools
 ```typescript
