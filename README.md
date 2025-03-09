@@ -2,7 +2,7 @@
 
 ## 🛠️ Software Engineer | AI Application Development | Web Development Enthusiast
 
-I specialize in building and testing web applications, focusing on automation, web scraping, and developer tooling. My work revolves around creating robust testing solutions and innovative developer tools.
+I specialize in building and testing web applications, focusing on AI applications and developer tooling. 
 
 ### 🔭 Featured Projects
 
