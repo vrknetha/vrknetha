@@ -22,9 +22,9 @@
 
 <br>
 
-<table align="center" border="0">
-<tr>
-<td width="50%">
+<table align="center" border="0" style="border-collapse: collapse; border: none;">
+<tr border="0" style="border: none;">
+<td width="50%" style="border: none;">
 
 ## 👨‍💻 About Me
 
@@ -33,21 +33,44 @@ I'm on a mission to transform enterprise development with AI. By day, I lead AI 
 My passion lies in creating tools that make AI practical and accessible. I believe the future of software development is AI-assisted, but it's only as good as the tools we build today.
 
 </td>
-<td width="50%">
+<td width="50%" style="border: none;">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vrknetha&show_icons=true&theme=tokyonight&border_radius=10" width="100%" alt="GitHub Stats"/>
+<a href="https://github.com/vrknetha">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=vrknetha&show_icons=true&theme=tokyonight&border_radius=10&card_width=445&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+</a>
 
 <br>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vrknetha&theme=tokyonight&border_radius=10" width="100%" alt="GitHub Streak"/>
+<a href="https://github.com/vrknetha">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vrknetha&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak"/>
+</a>
 
 </td>
 </tr>
 </table>
 
+<!-- ANIMATED SKILLS SECTION -->
+<div align="center">
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Technologies</h2>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,react,aws,docker,github,jest,github,vscode,git,firebase,mongodb,postgres" />
+  </a>
+</p>
+
+<!-- GITHUB SKYLINE -->
+<div align="center">
+  <h3>GitHub Skyline 3D Contribution Graph</h3>
+  <a href="https://skyline.github.com/vrknetha/2024" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline%20In%203D-3b7eaa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+  </a>
+</div>
+
 <!-- FEATURED PROJECTS -->
 <div align="center">
-  <h2>🔥 Featured Open Source Projects</h2>
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Open Source Projects</h2>
   <p>Creating tools that bridge AI ecosystems and give LLMs real capabilities</p>
 </div>
 
@@ -59,7 +82,7 @@ My passion lies in creating tools that make AI practical and accessible. I belie
     <h3 align="center">FireCrawl MCP Server</h3>
     <div align="center">
       <a href="https://github.com/mendableai/firecrawl-mcp-server" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/mendableai/firecrawl-mcp-server" width="100%" alt="FireCrawl MCP Server"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mendableai&repo=firecrawl-mcp-server&theme=tokyonight" width="100%" alt="FireCrawl MCP Server"/>
       </a>
       <p>
         <a href="https://github.com/mendableai/firecrawl-mcp-server" target="_blank">
@@ -69,7 +92,9 @@ My passion lies in creating tools that make AI practical and accessible. I belie
           <img src="https://img.shields.io/badge/WEBSITE-00CBE6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
         </a>
       </p>
-      <p align="center"><strong>⭐ 581 Stars</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/mendableai/firecrawl-mcp-server?style=for-the-badge&color=yellow" alt="Stars"/>
+      </p>
       <p>
         Led the initial implementation of this powerful web scraping tool for AI assistants. Enables Claude, Cursor, and other LLMs to browse the web, extract content, and perform batch operations.
       </p>
@@ -79,7 +104,7 @@ My passion lies in creating tools that make AI practical and accessible. I belie
     <h3 align="center">AISDK-MCP-Bridge</h3>
     <div align="center">
       <a href="https://github.com/vrknetha/aisdk-mcp-bridge" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/vrknetha/aisdk-mcp-bridge" width="100%" alt="AISDK MCP Bridge"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vrknetha&repo=aisdk-mcp-bridge&theme=tokyonight" width="100%" alt="AISDK MCP Bridge"/>
       </a>
       <p>
         <a href="https://github.com/vrknetha/aisdk-mcp-bridge" target="_blank">
@@ -89,7 +114,9 @@ My passion lies in creating tools that make AI practical and accessible. I belie
           <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
         </a>
       </p>
-      <p align="center"><strong>⭐ 5 Stars</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/vrknetha/aisdk-mcp-bridge?style=for-the-badge&color=yellow" alt="Stars"/>
+      </p>
       <p>
         Bridge package that connects Vercel's AI SDK to any MCP server, enabling seamless tool calling with comprehensive error handling and multi-server support.
       </p>
@@ -100,18 +127,20 @@ My passion lies in creating tools that make AI practical and accessible. I belie
   <td width="50%" valign="top">
     <h3 align="center">LangChainJS-MCP-Adapters</h3>
     <div align="center">
-      <a href="https://github.com/vrknetha/langchainjs-mcp-adapters" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/vrknetha/langchainjs-mcp-adapters" width="100%" alt="LangChainJS MCP Adapters"/>
+      <a href="https://github.com/langchain-ai/langchainjs-mcp-adapters" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=langchainjs-mcp-adapters&theme=tokyonight" width="100%" alt="LangChainJS MCP Adapters"/>
       </a>
       <p>
-        <a href="https://github.com/vrknetha/langchainjs-mcp-adapters" target="_blank">
+        <a href="https://github.com/langchain-ai/langchainjs-mcp-adapters" target="_blank">
           <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
         <a href="https://www.npmjs.com/package/langchainjs-mcp-adapters" target="_blank">
           <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
         </a>
       </p>
-      <p align="center"><strong>⭐ 2 Stars</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/langchain-ai/langchainjs-mcp-adapters?style=for-the-badge&color=yellow" alt="Stars"/>
+      </p>
       <p>
         Adapters for integrating MCP tools with LangChain.js applications, supporting both stdio and SSE transports with custom headers for authentication.
       </p>
@@ -120,7 +149,7 @@ My passion lies in creating tools that make AI practical and accessible. I belie
   <td width="50%" valign="top">
     <h3 align="center">More Coming Soon!</h3>
     <div align="center">
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contributions Snake"/>
+      <img src="https://github.com/vrknetha/vrknetha/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contributions Snake"/>
       <p>
         <strong>Currently Building:</strong><br>
         - Self-hosted agentic development solutions<br>
@@ -175,41 +204,41 @@ My passion lies in creating tools that make AI practical and accessible. I belie
 </tr>
 </table>
 
-<!-- CURRENT INITIATIVES -->
+<!-- CURRENT INITIATIVES with animated icons -->
 <div align="center">
   <h2>🚀 Current Initiatives</h2>
   <p>Building the future of AI-assisted development</p>
 </div>
 
 <div align="center">
-<table>
-<tr>
-  <td>
+<table border="0" style="border-collapse: collapse; border: none;">
+<tr border="0" style="border: none;">
+  <td width="50%" style="border: none;">
     <div align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="50" alt="Code Review"/>
+      <img src="https://media.giphy.com/media/3oKIPicDTlfxN7CYda/giphy.gif" width="60" alt="Code Review"/>
       <h3>AI Code Review Agent</h3>
       <p>Building an autonomous system that reviews code like a senior developer, providing intelligent feedback and suggestions.</p>
     </div>
   </td>
-  <td>
+  <td width="50%" style="border: none;">
     <div align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/test-tube.png" width="50" alt="Test Generation"/>
+      <img src="https://media.giphy.com/media/XG10OzHggOngQTHlEz/giphy.gif" width="60" alt="Test Generation"/>
       <h3>Smart Test Generation</h3>
       <p>Developing agents that understand business logic to automatically generate comprehensive test suites with minimal human input.</p>
     </div>
   </td>
 </tr>
-<tr>
-  <td>
+<tr border="0" style="border: none;">
+  <td width="50%" style="border: none;">
     <div align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/api-settings.png" width="50" alt="MCP Ecosystem"/>
+      <img src="https://media.giphy.com/media/l2SpZAclK8c880dFK/giphy.gif" width="60" alt="MCP Ecosystem"/>
       <h3>MCP Ecosystem Building</h3>
       <p>Contributing to the Model Context Protocol standard and creating libraries that bridge different AI frameworks.</p>
     </div>
   </td>
-  <td>
+  <td width="50%" style="border: none;">
     <div align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/server.png" width="50" alt="Self-Hosted AI"/>
+      <img src="https://media.giphy.com/media/5wWf7GMbT1ZUGTDdTqM/giphy.gif" width="60" alt="Self-Hosted AI"/>
       <h3>Enterprise AI Transformation</h3>
       <p>Leading initiatives to develop self-hosted, secure AI infrastructure for enterprise applications.</p>
     </div>
@@ -218,10 +247,41 @@ My passion lies in creating tools that make AI practical and accessible. I belie
 </table>
 </div>
 
+<!-- ENHANCED STATS SECTION -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> GitHub Statistics</h2>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vrknetha&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrknetha&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+</div>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vrknetha&theme=tokyo-night&hide_border=true" width="100%"/>
+
 <!-- LATEST BLOG POSTS -->
 <div align="center">
   <h2>📝 AI Development Insights</h2>
   <p>I write about AI development, testing strategies, and enterprise tools on <a href="https://medium.com/@vrknetha">Medium</a></p>
+  
+  <!-- This section can be populated dynamically with a GitHub Action -->
+  <a href="https://medium.com/@vrknetha"><img src="https://img.shields.io/badge/Read_my_latest-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read Latest"></a>
+</div>
+
+<!-- VISITOR COUNTER & ADDITIONAL STATS -->
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=vrknetha&style=for-the-badge&color=blue" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/vrknetha?style=for-the-badge&color=orange" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/vrknetha?style=for-the-badge&color=yellow" alt="Stars"/>
+  </p>
+  
+  <!-- PROGRAMMING QUOTE -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
 <!-- CONNECT WITH ME -->
@@ -242,5 +302,5 @@ My passion lies in creating tools that make AI practical and accessible. I belie
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
 </div>
