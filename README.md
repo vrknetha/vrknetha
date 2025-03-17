@@ -54,7 +54,7 @@
         <img src="https://opengraph.githubassets.com/1/langchain-ai/langchainjs-mcp-adapters" width="100%" alt="LangChainJS MCP Adapters" style="border-radius: 6px; border: 1px solid #bf616a;"/>
       </a>
       <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <a href="https://www.npmjs.com/package/langchainjs-mcp-adapters" target="_blank">
+        <a href="https://www.npmjs.com/package/@langchain/mcp-adapters" target="_blank">
           <img src="https://img.shields.io/badge/NPM-bf616a?style=for-the-badge&logo=npm&logoColor=white"/>
         </a>
         <img src="https://img.shields.io/github/stars/langchain-ai/langchainjs-mcp-adapters?style=for-the-badge&color=bf616a" alt="Stars"/>
