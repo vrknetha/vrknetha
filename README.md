@@ -1,12 +1,12 @@
-<!-- HEADER SECTION -->
+<!-- HEADER SECTION WITH TYPING ANIMATION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=bf616a&height=120&section=header" width="100%" alt="Header Wave">
   
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&color=bf616a&center=true&vCenter=true&random=false&width=600&height=70&lines=RAVI+KIRAN" alt="RAVI KIRAN" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&color=bf616a&center=true&vCenter=true&random=false&width=600&height=70&lines=RAVI+KIRAN;AI+Solutions+Architect;MCP+Ecosystem+Builder;Agent+Developer" alt="RAVI KIRAN" />
   </h1>
   
-  <h3 align="center">VP of Engineering @ CAW | Firecrawl and Langchain Contributor | MCP Ecosystem Builder</h3>
+  <h3 align="center">VP of Engineering @ CAW | AI Solutions Architect @ AutomationYard | MCP Ecosystem Builder</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/ravicaw/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -74,10 +74,10 @@
       </a>
       <p>
         <strong>Leading AI Solutioning, Architecture and Product Design for:</strong><br>
-        - Intelligent Code Review Agent that detects bugs, security issues, and provides contextual feedback<br>
-        - Knowledge Graph visualizations for complex codebases<br>
-        - Seamless GitHub integration for development workflows<br>
-        - Advanced AI development agents (coming soon)
+        - Intelligent Code Review Agent that detects bugs, security issues with deep codebase understanding<br>
+        - Knowledge Graph visualization system for navigating complex codebases<br>
+        - Seamless GitHub integration for maximizing development productivity<br>
+        - Enterprise-grade AI agents for transforming software development workflows
       </p>
     </div>
   </td>
@@ -93,9 +93,9 @@
 
 ## 👨‍💻 About Me
 
-I'm on a mission to transform enterprise development with AI. By day, I lead AI innovation at CAW and architect intelligent solutions at AutomationYard, designing systems for code review, knowledge visualization, and test generation. By night, I contribute to the Model Context Protocol (MCP) ecosystem, building bridges that connect AI assistants to real-world capabilities.
+I'm on a mission to transform enterprise development with AI. By day, I lead AI innovation at CAW and architect intelligent solutions at AutomationYard, designing systems that unlock developer productivity through AI-powered code review, knowledge visualization, and automated testing. By night, I contribute to the Model Context Protocol (MCP) ecosystem, building bridges that connect AI assistants to real-world capabilities.
 
-My passion lies in creating tools that make AI practical and accessible. I believe the future of software development is AI-assisted, and I'm building the platforms that will empower developers to achieve new levels of productivity and insight.
+My passion lies in creating tools that make AI practical and accessible. I've led the implementation of FireCrawl MCP Server and contributed to LangChainJS-MCP adapters, projects that are helping shape how developers interact with AI. I believe the future of software development is AI-augmented, and I'm building the platforms that empower developers to achieve unprecedented levels of productivity and insight.
 
 </td>
 <td width="50%" style="border: none;">
@@ -114,48 +114,59 @@ My passion lies in creating tools that make AI practical and accessible. I belie
   </a>
 </div>
 
-<!-- CUSTOM GITHUB STATS CARD LIKE SCREENSHOT -->
+<!-- CUSTOM GITHUB STATS CARD WITH 3D EFFECTS -->
 <div align="center" style="margin-top: 20px; margin-bottom: 30px;">
   <a href="https://github.com/vrknetha">
     <img src="https://github-readme-stats.vercel.app/api?username=vrknetha&show_icons=true&count_private=true&theme=nord&border_color=bf616a&icon_color=bf616a&title_color=bf616a&text_color=d8dee9&rank_icon=github" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/vrknetha">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vrknetha&theme=nord_dark" alt="GitHub Profile Details" />
-  </a>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vrknetha&theme=nord_dark" alt="GitHub Profile Details" />
 </div>
 
-<!-- ANIMATED SKILLS SECTION -->
+<!-- TECH STACK WITH ANIMATED GRID -->
 <div align="center">
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Technologies</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,react,aws,docker,github,jest,github,vscode,git,firebase,mongodb,postgres&perline=5" />
+    </a>
+  </p>
+  
+  <!-- AI SKILLS HIGHLIGHTING -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/LangChain-00A3E0?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+    <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=heart&logoColor=white" alt="Claude" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+    <img src="https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logo=slackware&logoColor=white" alt="Model Context Protocol" />
+    <img src="https://img.shields.io/badge/AI_Agents-00C7B7?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents" />
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,react,aws,docker,github,jest,github,vscode,git,firebase,mongodb,postgres" />
-  </a>
-</p>
-
-<!-- GITHUB SKYLINE -->
+<!-- GITHUB CONTRIBUTION VISUALIZATION -->
 <div align="center">
-  <h3>GitHub Skyline 3D Contribution Graph</h3>
-  <a href="https://skyline.github.com/vrknetha/2024" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline%20In%203D-bf616a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+  <h3>GitHub Contribution Visualization</h3>
+  <a href="https://github.com/vrknetha" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-bf616a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </div>
 
-<!-- SNAKE ANIMATION -->
+<!-- 3D CONTRIBUTION METRICS -->
 <div align="center">
-  <h2>📊 Contribution Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vrknetha/vrknetha/snake-dark/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vrknetha/vrknetha/snake-light/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/vrknetha/vrknetha/snake-dark/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <h2>🔥 GitHub Contribution Stats</h2>
+  <a href="https://github.com/vrknetha">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrknetha&theme=nord&hide_border=true&background=2E3440&stroke=bf616a&ring=bf616a&fire=bf616a&currStreakLabel=bf616a" alt="GitHub Streak Stats" />
+  </a>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vrknetha&theme=nord&column=7&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <br/>
+  <a href="https://metrics.lecoq.io/about/vrknetha">
+    <img src="https://metrics.lecoq.io/vrknetha?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&notable=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=America%2FNew_York" alt="Detailed Metrics" />
+  </a>
 </div>
 
-<!-- ADDITIONAL SECTION - Snake Game Workflow File -->
+<!-- ADDITIONAL SECTION - GitHub Actions Snake Animation Workflow -->
 <!--
-To fix your snake animation, create a new file at .github/workflows/snake.yml with this content:
+To add the snake animation to your profile, create a new file at .github/workflows/snake.yml with this content:
 
 name: Generate Snake Animation
 
@@ -171,37 +182,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Generate Snake - Dark Mode
-        uses: Platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
           
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: snake-dark
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Generate Snake - Light Mode
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Deploy to GitHub Pages (Light Mode)
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: snake-light
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -261,14 +251,14 @@ jobs:
     <div align="center">
       <img src="https://media.giphy.com/media/3oKIPicDTlfxN7CYda/giphy.gif" width="60" alt="Code Review"/>
       <h3>AutomationYard: Intelligent Code Review</h3>
-      <p>Architecting an AI-powered code review system that detects bugs, security vulnerabilities, and performance issues while providing contextual feedback based on your codebase patterns.</p>
+      <p>Leading the design and architecture of AutomationYard's AI-powered code review agent that identifies bugs, security vulnerabilities, and performance issues with deep contextual understanding of your codebase.</p>
     </div>
   </td>
   <td width="50%" style="border: none;">
     <div align="center">
       <img src="https://media.giphy.com/media/XG10OzHggOngQTHlEz/giphy.gif" width="60" alt="Knowledge Graph"/>
-      <h3>Code Knowledge Graph</h3>
-      <p>Designing visualization systems that map relationships between classes, functions, and modules, making complex dependencies instantly understandable and improving developer onboarding.</p>
+      <h3>AutomationYard: Knowledge Graph</h3>
+      <p>Architecting comprehensive visualization systems that map relationships between classes, functions, and modules across your entire codebase, making complex dependencies instantly understandable and improving developer onboarding.</p>
     </div>
   </td>
 </tr>
@@ -283,8 +273,8 @@ jobs:
   <td width="50%" style="border: none;">
     <div align="center">
       <img src="https://media.giphy.com/media/5wWf7GMbT1ZUGTDdTqM/giphy.gif" width="60" alt="Dev Agents"/>
-      <h3>Development Agents (Coming Soon)</h3>
-      <p>Designing specialized AI agents for code generation, refactoring, and repository analysis to further extend development automation capabilities.</p>
+      <h3>AutomationYard: Development Agents</h3>
+      <p>Designing the next generation of specialized AI agents for AutomationYard, focused on code generation, refactoring, and repository analysis to further extend development automation capabilities and boost team productivity.</p>
     </div>
   </td>
 </tr>
@@ -303,29 +293,62 @@ jobs:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&borderColor=bf616a" alt="Quote" />
 </div>
 
-<!-- LATEST BLOG POSTS -->
+<!-- LATEST MEDIUM BLOG POSTS WORKFLOW -->
 <div align="center">
-  <h2>📝 AI Development Insights</h2>
-  <p>I write about AI development, testing strategies, and enterprise automation on <a href="https://medium.com/@vrknetha">Medium</a></p>
+  <h2>📝 Latest AI Development Insights</h2>
   
-  <!-- This section can be populated dynamically with a GitHub Action -->
-  <a href="https://medium.com/@vrknetha"><img src="https://img.shields.io/badge/Read_my_latest-bf616a?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read Latest"></a>
+  <!-- BLOG-POST-LIST:START -->
+  - [The MCP-First Revolution: Why Your Next Application Should Start With a Model Context Protocol](https://medium.com/@vrknetha/the-mcp-first-revolution-why-your-next-application-should-start-with-a-model-context-protocol-9b3d1e973e42)
+  - [Supercharge Your Claude Desktop Experience: How MCP Servers Create a Claude Code-Like Environment](https://medium.com/@vrknetha/supercharge-your-claude-desktop-experience-how-mcp-servers-create-a-claude-code-like-environment-7e984c802107)
+  - [The Ultimate Guide to AI-Powered Development with Cursor: From Chaos to Clean Code](https://medium.com/@vrknetha/the-ultimate-guide-to-ai-powered-development-with-cursor-from-chaos-to-clean-code-fc679973bbc4)
+  <!-- BLOG-POST-LIST:END -->
+  
+  <a href="https://medium.com/@vrknetha"><img src="https://img.shields.io/badge/Read_my_latest-bf616a?style=for-the-badge&logo=medium&logoColor=white" alt="Read Latest"></a>
 </div>
 
-<!-- CONNECT WITH ME -->
+<!-- BLOG WORKFLOW COMMENTS -->
+<!--
+To automatically update your latest blog posts, create a new file at .github/workflows/blog-post-workflow.yml with this content:
+
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * *' # Once a day
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@vrknetha"
+          max_post_count: 3
+          template: "- [$title]($url)"
+-->
+
+<!-- CONNECT WITH ME ANIMATED SECTION -->
 <div align="center">
   <h2>🤝 Let's Connect</h2>
   <p>I'm always interested in collaborating on innovative AI projects and discussing the future of development automation</p>
   
-  <a href="https://www.linkedin.com/in/ravicaw/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vrknetha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://medium.com/@vrknetha">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ravicaw/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:vrknetha@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://medium.com/@vrknetha">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+  </p>
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </div>
 
 <!-- FOOTER -->
