@@ -160,7 +160,7 @@ My passion lies in creating tools that make AI practical and accessible. I've le
   <img src="https://github-profile-trophy.vercel.app/?username=vrknetha&theme=nord&column=7&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   <br/>
   <a href="https://metrics.lecoq.io/about/vrknetha">
-    <img src="https://metrics.lecoq.io/vrknetha?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&notable=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=America%2FNew_York" alt="Detailed Metrics" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrknetha&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
@@ -348,7 +348,11 @@ jobs:
     </a>
   </p>
   
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <!-- FOOTER -->
