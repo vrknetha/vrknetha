@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&color=bf616a&center=true&vCenter=true&random=false&width=600&height=70&lines=RAVI+KIRAN" alt="RAVI KIRAN" />
   </h1>
   
-  <h3 align="center">VP of Engineering @ CAW | MCP Ecosystem Builder | AI Agent Architect</h3>
+  <h3 align="center">VP of Engineering @ CAW | Firecrawl and Langchain Contributor | MCP Ecosystem Builder</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/ravicaw/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -17,7 +17,7 @@
 
 <!-- ABOUT ME SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=bf616a&center=true&vCenter=true&width=435&lines=AI+Tools+and+Agent+Developer;Enterprise+AI+Transformation;MCP+Ecosystem+Builder;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=bf616a&center=true&vCenter=true&width=435&lines=AI+Solutions+Architect;Enterprise+AI+Transformation;Autonomous+Agent+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <!-- FEATURED PROJECTS -->
@@ -67,14 +67,17 @@
 </tr>
 <tr>
   <td width="50%" valign="top" colspan="2">
-    <h3 align="center">More Coming Soon!</h3>
+    <h3 align="center">AutomationYard</h3>
     <div align="center">
+      <a href="https://www.automationyard.ai" target="_blank">
+        <img src="https://img.shields.io/badge/AUTOMATIONYARD-bf616a?style=for-the-badge&logo=robot&logoColor=white"/>
+      </a>
       <p>
-        <strong>Currently Building:</strong><br>
-        - Self-hosted agentic development solutions<br>
-        - AI-powered code review tools<br>
-        - Test generation agents<br>
-        - MCP ecosystem extensions
+        <strong>Leading AI Solutioning, Architecture and Product Design for:</strong><br>
+        - Intelligent Code Review Agent that detects bugs, security issues, and provides contextual feedback<br>
+        - Knowledge Graph visualizations for complex codebases<br>
+        - Seamless GitHub integration for development workflows<br>
+        - Advanced AI development agents (coming soon)
       </p>
     </div>
   </td>
@@ -90,9 +93,9 @@
 
 ## 👨‍💻 About Me
 
-I'm on a mission to transform enterprise development with AI. By day, I lead AI innovation at CAW, architecting intelligent systems for code review and test generation. By night, I contribute to the Model Context Protocol (MCP) ecosystem, building bridges that connect AI assistants to real-world capabilities.
+I'm on a mission to transform enterprise development with AI. By day, I lead AI innovation at CAW and architect intelligent solutions at AutomationYard, designing systems for code review, knowledge visualization, and test generation. By night, I contribute to the Model Context Protocol (MCP) ecosystem, building bridges that connect AI assistants to real-world capabilities.
 
-My passion lies in creating tools that make AI practical and accessible. I believe the future of software development is AI-assisted, but it's only as good as the tools we build today.
+My passion lies in creating tools that make AI practical and accessible. I believe the future of software development is AI-assisted, and I'm building the platforms that will empower developers to achieve new levels of productivity and insight.
 
 </td>
 <td width="50%" style="border: none;">
@@ -104,16 +107,12 @@ My passion lies in creating tools that make AI practical and accessible. I belie
 </tr>
 </table>
 
-<!-- FEATURED PROJECTS moved to the top -->
-
 <!-- CUSTOM GITHUB PROFILE CARD -->
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
   <a href="https://github.com/vrknetha">
     <img src="https://github-profile-trophy.vercel.app/?username=vrknetha&theme=nord&column=7&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
-
-<!-- FEATURED PROJECTS moved to the top -->
 
 <!-- CUSTOM GITHUB STATS CARD LIKE SCREENSHOT -->
 <div align="center" style="margin-top: 20px; margin-bottom: 30px;">
@@ -261,15 +260,15 @@ jobs:
   <td width="50%" style="border: none;">
     <div align="center">
       <img src="https://media.giphy.com/media/3oKIPicDTlfxN7CYda/giphy.gif" width="60" alt="Code Review"/>
-      <h3>AI Code Review Agent</h3>
-      <p>Building an autonomous system that reviews code like a senior developer, providing intelligent feedback and suggestions.</p>
+      <h3>AutomationYard: Intelligent Code Review</h3>
+      <p>Architecting an AI-powered code review system that detects bugs, security vulnerabilities, and performance issues while providing contextual feedback based on your codebase patterns.</p>
     </div>
   </td>
   <td width="50%" style="border: none;">
     <div align="center">
-      <img src="https://media.giphy.com/media/XG10OzHggOngQTHlEz/giphy.gif" width="60" alt="Test Generation"/>
-      <h3>Smart Test Generation</h3>
-      <p>Developing agents that understand business logic to automatically generate comprehensive test suites with minimal human input.</p>
+      <img src="https://media.giphy.com/media/XG10OzHggOngQTHlEz/giphy.gif" width="60" alt="Knowledge Graph"/>
+      <h3>Code Knowledge Graph</h3>
+      <p>Designing visualization systems that map relationships between classes, functions, and modules, making complex dependencies instantly understandable and improving developer onboarding.</p>
     </div>
   </td>
 </tr>
@@ -278,14 +277,14 @@ jobs:
     <div align="center">
       <img src="https://media.giphy.com/media/l2SpZAclK8c880dFK/giphy.gif" width="60" alt="MCP Ecosystem"/>
       <h3>MCP Ecosystem Building</h3>
-      <p>Contributing to the Model Context Protocol standard and creating libraries that bridge different AI frameworks.</p>
+      <p>Contributing to the Model Context Protocol standard and creating libraries that bridge different AI frameworks to make intelligent agents more accessible.</p>
     </div>
   </td>
   <td width="50%" style="border: none;">
     <div align="center">
-      <img src="https://media.giphy.com/media/5wWf7GMbT1ZUGTDdTqM/giphy.gif" width="60" alt="Self-Hosted AI"/>
-      <h3>Enterprise AI Transformation</h3>
-      <p>Leading initiatives to develop self-hosted, secure AI infrastructure for enterprise applications.</p>
+      <img src="https://media.giphy.com/media/5wWf7GMbT1ZUGTDdTqM/giphy.gif" width="60" alt="Dev Agents"/>
+      <h3>Development Agents (Coming Soon)</h3>
+      <p>Designing specialized AI agents for code generation, refactoring, and repository analysis to further extend development automation capabilities.</p>
     </div>
   </td>
 </tr>
@@ -307,7 +306,7 @@ jobs:
 <!-- LATEST BLOG POSTS -->
 <div align="center">
   <h2>📝 AI Development Insights</h2>
-  <p>I write about AI development, testing strategies, and enterprise tools on <a href="https://medium.com/@vrknetha">Medium</a></p>
+  <p>I write about AI development, testing strategies, and enterprise automation on <a href="https://medium.com/@vrknetha">Medium</a></p>
   
   <!-- This section can be populated dynamically with a GitHub Action -->
   <a href="https://medium.com/@vrknetha"><img src="https://img.shields.io/badge/Read_my_latest-bf616a?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read Latest"></a>
@@ -316,7 +315,7 @@ jobs:
 <!-- CONNECT WITH ME -->
 <div align="center">
   <h2>🤝 Let's Connect</h2>
-  <p>I'm always interested in collaborating on innovative AI projects and discussing the future of development</p>
+  <p>I'm always interested in collaborating on innovative AI projects and discussing the future of development automation</p>
   
   <a href="https://www.linkedin.com/in/ravicaw/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
