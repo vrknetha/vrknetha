@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&color=bf616a&center=true&vCenter=true&random=false&width=600&height=70&lines=RAVI+KIRAN;AI+Solutions+Architect;MCP+Ecosystem+Builder;Agent+Developer" alt="RAVI KIRAN" />
   </h1>
   
-  <h3 align="center">VP of Engineering @ CAW | AI Solutions Architect @ AutomationYard | MCP Ecosystem Builder</h3>
+  <h3 align="center">VP of Engineering @ CAW | AI Solutions Architect @ CodeKnack | MCP Ecosystem Builder</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/ravicaw/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -67,10 +67,10 @@
 </tr>
 <tr>
   <td width="50%" valign="top" colspan="2">
-    <h3 align="center">AutomationYard</h3>
+    <h3 align="center">CodeKnack</h3>
     <div align="center">
-      <a href="https://www.automationyard.ai" target="_blank">
-        <img src="https://img.shields.io/badge/AUTOMATIONYARD-bf616a?style=for-the-badge&logo=robot&logoColor=white"/>
+      <a href="https://www.CodeKnack.ai" target="_blank">
+        <img src="https://img.shields.io/badge/CodeKnack-bf616a?style=for-the-badge&logo=robot&logoColor=white"/>
       </a>
       <p>
         <strong>Leading AI Solutioning, Architecture and Product Design for:</strong><br>
@@ -93,7 +93,7 @@
 
 ## 👨‍💻 About Me
 
-I'm on a mission to transform enterprise development with AI. By day, I lead AI innovation at CAW and architect intelligent solutions at AutomationYard, designing systems that unlock developer productivity through AI-powered code review, knowledge visualization, and automated testing. By night, I contribute to the Model Context Protocol (MCP) ecosystem, building bridges that connect AI assistants to real-world capabilities.
+I'm on a mission to transform enterprise development with AI. By day, I lead AI innovation at CAW and architect intelligent solutions at CodeKnack, designing systems that unlock developer productivity through AI-powered code review, knowledge visualization, and automated testing. By night, I contribute to the Model Context Protocol (MCP) ecosystem, building bridges that connect AI assistants to real-world capabilities.
 
 My passion lies in creating tools that make AI practical and accessible. I've led the implementation of FireCrawl MCP Server and contributed to LangChainJS-MCP adapters, projects that are helping shape how developers interact with AI. I believe the future of software development is AI-augmented, and I'm building the platforms that empower developers to achieve unprecedented levels of productivity and insight.
 
@@ -250,14 +250,14 @@ jobs:
   <td width="50%" style="border: none;">
     <div align="center">
       <img src="https://media.giphy.com/media/3oKIPicDTlfxN7CYda/giphy.gif" width="60" alt="Code Review"/>
-      <h3>AutomationYard: Intelligent Code Review</h3>
-      <p>Leading the design and architecture of AutomationYard's AI-powered code review agent that identifies bugs, security vulnerabilities, and performance issues with deep contextual understanding of your codebase.</p>
+      <h3>CodeKnack: Intelligent Code Review</h3>
+      <p>Leading the design and architecture of CodeKnack's AI-powered code review agent that identifies bugs, security vulnerabilities, and performance issues with deep contextual understanding of your codebase.</p>
     </div>
   </td>
   <td width="50%" style="border: none;">
     <div align="center">
       <img src="https://media.giphy.com/media/XG10OzHggOngQTHlEz/giphy.gif" width="60" alt="Knowledge Graph"/>
-      <h3>AutomationYard: Knowledge Graph</h3>
+      <h3>CodeKnack: Knowledge Graph</h3>
       <p>Architecting comprehensive visualization systems that map relationships between classes, functions, and modules across your entire codebase, making complex dependencies instantly understandable and improving developer onboarding.</p>
     </div>
   </td>
@@ -273,8 +273,8 @@ jobs:
   <td width="50%" style="border: none;">
     <div align="center">
       <img src="https://media.giphy.com/media/5wWf7GMbT1ZUGTDdTqM/giphy.gif" width="60" alt="Dev Agents"/>
-      <h3>AutomationYard: Development Agents</h3>
-      <p>Designing the next generation of specialized AI agents for AutomationYard, focused on code generation, refactoring, and repository analysis to further extend development automation capabilities and boost team productivity.</p>
+      <h3>CodeKnack: Development Agents</h3>
+      <p>Designing the next generation of specialized AI agents for CodeKnack, focused on code generation, refactoring, and repository analysis to further extend development automation capabilities and boost team productivity.</p>
     </div>
   </td>
 </tr>
