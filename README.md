@@ -50,7 +50,7 @@ $ cat /etc/opinions
 
 - Small fine-tuned models on tool calling > generic large models for most workflows
 - Nobody talks about the interface problem. Your agent is smart. Your users don't know what to ask.
-- Everyone demos. Nobody ships. The gap isn't the model, it's the plumbing.
+- Everyone demos. Nobody ships. It breaks at the boring stuff — config, auth, retries, edge cases.
 - Data quality > model size. Always.
 - CLI agents are general-purpose. Not "coding tools."
 
