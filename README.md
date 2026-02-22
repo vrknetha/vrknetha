@@ -42,9 +42,7 @@ $ ls ~/projects --sort=stars
 |---------|------|-------|
 | [**firecrawl-mcp-server**](https://github.com/mendableai/firecrawl-mcp-server) | Web scraping for AI assistants. Led initial implementation. | ![](https://img.shields.io/github/stars/mendableai/firecrawl-mcp-server?style=flat-square&color=161b22&labelColor=0d1117) |
 | [**langchainjs-mcp-adapters**](https://github.com/langchain-ai/langchainjs-mcp-adapters) | MCP ↔ LangChain bridge. Contributor. | ![](https://img.shields.io/github/stars/langchain-ai/langchainjs-mcp-adapters?style=flat-square&color=161b22&labelColor=0d1117) |
-| [**aisdk-mcp-bridge**](https://github.com/vrknetha/aisdk-mcp-bridge) | AI SDK ↔ MCP servers. Multiple transports. | ![](https://img.shields.io/github/stars/vrknetha/aisdk-mcp-bridge?style=flat-square&color=161b22&labelColor=0d1117) |
 | [**clawdentity**](https://github.com/vrknetha/clawdentity) | Agent identity protocol + Rust CLI. | ![](https://img.shields.io/github/stars/vrknetha/clawdentity?style=flat-square&color=161b22&labelColor=0d1117) |
-| [**playwright-clipboard**](https://github.com/vrknetha/playwright-clipboard) | Cross-browser clipboard testing. | ![](https://img.shields.io/github/stars/vrknetha/playwright-clipboard?style=flat-square&color=161b22&labelColor=0d1117) |
 
 ```
 $ cat /etc/opinions
