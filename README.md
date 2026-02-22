@@ -49,8 +49,8 @@ $ cat /etc/opinions
 ```
 
 - Small fine-tuned models on tool calling > generic large models for most workflows
-- Agent intelligence is useless if users can't ask the right questions
-- Demo-to-production gap is real. Integration + workflow design is where teams die.
+- Nobody talks about the interface problem. Your agent is smart. Your users don't know what to ask.
+- Everyone demos. Nobody ships. The gap isn't the model, it's the plumbing.
 - Data quality > model size. Always.
 - CLI agents are general-purpose. Not "coding tools."
 
