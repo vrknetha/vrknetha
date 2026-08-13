@@ -34,6 +34,11 @@ Per-agent DIDs, Ed25519 signing, WebSocket relay, cross-platform webhooks.
 12K lines of Rust. 70 tests. [IETF Internet-Draft](https://datatracker.ietf.org/doc/draft-ravikiran-clawdentity-protocol/) published.
 Works on OpenClaw, PicoClaw, NanoBot, NanoClaw. One binary. Zero deps.
 
+**[upsk.to](https://www.upsk.to/)** — an engineering bootcamp with no lectures and no videos.
+Your coding agent *is* the instructor — it teaches through conversation, remembers how you learn,
+and scores on evidence. Rust CLI + Cloudflare Workers behind it, pure conversation in front.
+Works with Claude Code, Codex, Cursor. Paste one prompt to start.
+
 ```
 $ ps aux | grep knacklabs
 ```
@@ -42,8 +47,6 @@ $ ps aux | grep knacklabs
 |-----|---------|-------------------|
 | 1 | [**symphony-forge**](https://github.com/knacklabs/symphony-forge) | The assembly line for agent-built software. Claude Code plans, Codex executes, deterministic gates enforce sign-off → plan → build → ship. Adversarial "grill" review before every handoff. |
 | 2 | [**gantry**](https://github.com/knacklabs/gantry) | Self-hosted runtime for production AI agents. Sandboxed workers, capability grants, memory that survives model swaps. Slack / Teams / Telegram / Discord. |
-| 3 | [**upsk.to**](https://www.upsk.to/) | An engineering bootcamp with no lectures and no videos. Your coding agent *is* the instructor. Rust CLI + Cloudflare Workers behind it, pure conversation in front. |
-
 ```
 $ ls ~/projects --sort=stars
 ```
