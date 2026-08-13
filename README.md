@@ -73,7 +73,7 @@ $ uname -a
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrknetha&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&icon_color=e6edf3&ring_color=e6edf3" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=vrknetha&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&icon_color=e6edf3&ring_color=e6edf3" alt="GitHub Stats" />
 </div>
 
 <div align="center">
