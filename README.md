@@ -35,6 +35,16 @@ Per-agent DIDs, Ed25519 signing, WebSocket relay, cross-platform webhooks.
 Works on OpenClaw, PicoClaw, NanoBot, NanoClaw. One binary. Zero deps.
 
 ```
+$ ps aux | grep knacklabs
+```
+
+| PID | Process | What it's running |
+|-----|---------|-------------------|
+| 1 | [**symphony-forge**](https://github.com/knacklabs/symphony-forge) | The assembly line for agent-built software. Claude Code plans, Codex executes, deterministic gates enforce sign-off → plan → build → ship. Adversarial "grill" review before every handoff. |
+| 2 | [**gantry**](https://github.com/knacklabs/gantry) | Self-hosted runtime for production AI agents. Sandboxed workers, capability grants, memory that survives model swaps. Slack / Teams / Telegram / Discord. |
+| 3 | [**upsk.to**](https://www.upsk.to/) | An engineering bootcamp with no lectures and no videos. Your coding agent *is* the instructor. Rust CLI + Cloudflare Workers behind it, pure conversation in front. |
+
+```
 $ ls ~/projects --sort=stars
 ```
 
@@ -63,7 +73,7 @@ $ uname -a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrknetha&hide_border=true&background=0d1117&stroke=161b22&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=7d8590&currStreakNum=e6edf3&sideNums=7d8590&dates=7d8590" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=vrknetha&hide_border=true&background=0d1117&stroke=161b22&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=7d8590&currStreakNum=e6edf3&sideNums=7d8590&dates=7d8590" alt="Streak Stats" />
 </div>
 
 <div align="center">
@@ -74,11 +84,11 @@ $ uname -a
 $ history | tail -5
 ```
 
+- Launched upsk.to — bootcamp where the coding agent is the instructor
+- Shipped Gantry — self-hosted agent runtime, prepping open-source release
+- Built Symphony Forge — the harness KnackLabs ships every project through
 - Published Clawdentity IETF Internet-Draft (RFC for agent identity)
-- Built Rust CLI — single binary for 4 agent platforms
-- Opened webhook PRs to PicoClaw, NanoBot, NanoClaw
 - Running 15+ automated cron jobs from an AI assistant on WhatsApp
-- Shipped ravi.sh (brutalist portfolio, because LinkedIn profiles are boring)
 
 <!-- FOOTER -->
 <div align="center">
