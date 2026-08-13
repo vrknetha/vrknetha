@@ -77,7 +77,7 @@ $ uname -a
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vrknetha&hide_border=true&background=0d1117&stroke=161b22&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=7d8590&currStreakNum=e6edf3&sideNums=7d8590&dates=7d8590" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vrknetha&hide_border=true&background=0d1117&stroke=161b22&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=7d8590&currStreakNum=e6edf3&sideNums=7d8590&dates=7d8590" alt="Streak Stats" />
 </div>
 
 <div align="center">
