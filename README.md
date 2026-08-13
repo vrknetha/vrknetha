@@ -50,6 +50,7 @@ $ ls ~/projects --sort=stars
 
 | Project | What | Stars |
 |---------|------|-------|
+| [**openclaw**](https://github.com/openclaw/openclaw) | Personal AI assistant runtime. Shipped Plivo voice calls, `/bash` command, tool-failure surfacing. | ![](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&color=161b22&labelColor=0d1117) |
 | [**firecrawl-mcp-server**](https://github.com/mendableai/firecrawl-mcp-server) | Web scraping for AI assistants. Led initial implementation. | ![](https://img.shields.io/github/stars/mendableai/firecrawl-mcp-server?style=flat-square&color=161b22&labelColor=0d1117) |
 | [**langchainjs-mcp-adapters**](https://github.com/langchain-ai/langchainjs-mcp-adapters) | MCP ↔ LangChain bridge. Contributor. | ![](https://img.shields.io/github/stars/langchain-ai/langchainjs-mcp-adapters?style=flat-square&color=161b22&labelColor=0d1117) |
 | [**clawdentity**](https://github.com/vrknetha/clawdentity) | Agent identity protocol + Rust CLI. | ![](https://img.shields.io/github/stars/vrknetha/clawdentity?style=flat-square&color=161b22&labelColor=0d1117) |
