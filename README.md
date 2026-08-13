@@ -7,7 +7,7 @@
   <a href="https://ravi.sh"><img src="https://img.shields.io/badge/ravi.sh-e6edf3?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDExMTciIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTQgMTdsMSAyaDJ2LTNoMnYzaDJ2LTNoMnYzaDJ2LTNoMnYzaDJsMS0yIi8+PHBhdGggZD0iTTIgMjBoMjAiLz48cGF0aCBkPSJNMTIgNGw4IDEzSDR6Ii8+PC9zdmc+&logoColor=0d1117" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/ravicaw/"><img src="https://img.shields.io/badge/LinkedIn-e6edf3?style=flat-square&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/></a>
   <a href="https://x.com/ravikiran_16"><img src="https://img.shields.io/badge/X-e6edf3?style=flat-square&logo=x&logoColor=0d1117" alt="X"/></a>
-  <a href="mailto:ravi@caw.tech"><img src="https://img.shields.io/badge/ravi@caw.tech-e6edf3?style=flat-square&logo=gmail&logoColor=0d1117" alt="Email"/></a>
+  <a href="mailto:ravi@knacklabs.ai"><img src="https://img.shields.io/badge/ravi@knacklabs.ai-e6edf3?style=flat-square&logo=gmail&logoColor=0d1117" alt="Email"/></a>
 </div>
 
 <br>
